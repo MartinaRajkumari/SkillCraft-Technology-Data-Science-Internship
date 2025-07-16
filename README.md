@@ -4,27 +4,25 @@ This repository contains all the tasks that have been completed during my Data S
 
 ### Internship
 
-Organization: SkillCraft Technology
-
-Duration: 1 July 2025 to 31 July 2025
-
-Role: Data Science Intern
+- Organization: SkillCraft Technology
+- Duration: 1 July 2025 to 31 July 2025
+- Role: Data Science Intern
 
 ### Tasks Summary
 
 ✅ Task 01:  Population Distribution Analysis
-Objective: To create a bar chart to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+- Objective: To create a bar chart to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
-Key Activities:
-🔍 Explored feature relationships such as:
-Population Vs Gender
-Population Vs Age group
+- Key Activities:
+Explored feature relationships such as:<br/>
+Population Vs Gender<br/>
+Population Vs Age group<br/>
 Age ranges from (0-14),(15-64) and (65 and above)
 
-Tools and Libraries used: Python, numpy, matplotlib, pandas
+- Tools and Libraries used: Python, numpy, matplotlib, pandas
 
-Key Visuals Created:
-📊 Bar Chart — 1. India Population by Gender(2000-2024)
+- Key Visuals Created:<br/>
+📊 Bar Chart — 1. India Population by Gender(2000-2024)<br/>
 📊 Bar Chart — 2. India Population by Age Group and Gender(2000-2024)
 
 
