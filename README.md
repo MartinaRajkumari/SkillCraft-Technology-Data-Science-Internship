@@ -22,7 +22,32 @@ Age ranges from (0-14),(15-64) and (65 and above)
 - Tools and Libraries used: Python, numpy, matplotlib, pandas
 
 - Key Visuals Created:<br/>
-📊 Bar Chart — 1. India Population by Gender(2000-2024)<br/>
-📊 Bar Chart — 2. India Population by Age Group and Gender(2000-2024)
+📊 India Population by Gender(2000-2024)<br/>
+📊 India Population by Age Group and Gender(2000-2024)
 
+
+✅ Task 02<br/>
+Objective:To perform Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic dataset and uncover relationships between key variables to identify patterns and trends.<br/>
+
+- Key Activities:<br/>
+Loaded and examined the Titanic dataset from Kaggle<br/>
+Cleaned the data by:<br/>
+ *Dropping irrelevant columns (Cabin, PassengerId, Name, Ticket)<br/>
+ *Filling missing values in Age and Embarked using median and mode respectively<br/>
+-Performed EDA using Python libraries<br/>
+-Created visualizations to explore trends<br/>
+
+- Tools and Libraries used: Python, pandas, seaborn and matplotlib<br/>
+
+- Key Visuals Created:<br/>
+  📊 Overall survival distribution<br/>
+  📊 Survival by gender<br/>
+  📊 Survival by class<br/>
+  📊 Survival by embarkment point<br/>
+  📊 Age distribution among survivors<br/>
+  📊 Correlation heatmap <br/>
+  📊 Pairwise relationships between key features in the dataset<br/>
+
+📈 Outcome:<br/>
+Through this task, I strengthened my ability to clean real-world datasets, deal with missing and irrelevant data and apply visual EDA techniques to uncover insights and trends. I practiced using correlation analysis and pairplots to examine patterns and improved my data storytelling using clear and purposeful visualizations.<br/>
 
