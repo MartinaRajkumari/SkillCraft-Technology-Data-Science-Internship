@@ -2,6 +2,8 @@
 
 This repository contains all the tasks that have been completed during my Data Science Internship at SkillCraft Technology. This internship provided experience with real-world datasets and helped in strengthening my understanding of Exploratory Data Analysis and Data Visualization.
 
+---
+
 ## Internship
 
 - **Organization:** SkillCraft Technology  
@@ -9,6 +11,8 @@ This repository contains all the tasks that have been completed during my Data S
 - **Duration:** 1 July,2025 to 31 July,2025
 - **Key Tools & Libraries:**  
   `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Folium`, `Jupyter Notebook`
+
+---
 
 ## Tasks Summary
 
@@ -27,6 +31,7 @@ Age ranges from (0-14),(15-64) and (65 and above)
 📊 India Population by Gender(2000-2024)<br/>
 📊 India Population by Age Group and Gender(2000-2024)
 
+---
 
 ### ✅ Task 02<br/>
 Objective: To perform Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic dataset and uncover relationships between key variables to identify patterns and trends.<br/>
@@ -53,6 +58,8 @@ Objective: To perform Data Cleaning and Exploratory Data Analysis (EDA) on the T
 📈 Outcome:<br/>
 Through this task, I strengthened my ability to clean real-world datasets, deal with missing and irrelevant data and apply visual EDA techniques to uncover insights and trends. I practiced using correlation analysis and pairplots to examine patterns and improved my data storytelling using clear and purposeful visualizations.<br/>
 
+---
+
 ### ✅ Task 03<br/>
 - Objective: To build a Decision Tree Classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data using the Bank Marketing dataset.
 
@@ -75,6 +82,8 @@ Through this task, I strengthened my ability to clean real-world datasets, deal 
 
 📈 Outcome:<br/>
 This task helped me understand how decision trees function and how they can be used for classification tasks. I strengthened my skills in model building, feature encoding, evaluation metrics, and visualization. I also learned how to interpret machine learning results to gain meaningful business insights.
+
+---
 
 ### ✅ Task 04<br/>
 - Objective: To analyze traffic accident data and identify patterns based on road conditions, weather, and time of day, and visualize accident hotspots across the U.S.
